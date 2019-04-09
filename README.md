@@ -1,4 +1,4 @@
-LkrCoin Android Wallet
+IUCoin Android Wallet
 ===============
 
 New android IuCoin Wallet
